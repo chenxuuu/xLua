@@ -83,6 +83,7 @@ files
 
 defines
 {
+    "THREAD_SAFE",
     "HOTFIX_ENABLE",
     "XLUA_GENERAL",
 }
@@ -222,6 +223,7 @@ files
 defines
 {
     "XLUA_GENERAL",
+    "THREAD_SAFE",
     "HOTFIX_ENABLE",
 }
 
